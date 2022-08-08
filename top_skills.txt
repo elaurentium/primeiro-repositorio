@@ -1,0 +1,8 @@
+internet
+unix
+bash
+git
+github
+programacao
+ide
+trybe
